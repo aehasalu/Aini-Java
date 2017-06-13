@@ -13,5 +13,9 @@ System.out.println(a);
 int c=a++;
 System.out.println(c);
 System.out.println(a);
-}
+
+String S1= "kehvapoolne";
+String S2= "kehvapoolne";
+System.out.println(S1.equals(S2));
 }	
+}
