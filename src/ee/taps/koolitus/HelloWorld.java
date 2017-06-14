@@ -10,8 +10,10 @@ int a=5;
 int b=++a;
 System.out.println(b);
 System.out.println(a);
-int c=a++;
+int c=a++ - ++a;
+int d=a++ + a++;
 System.out.println(c);
 System.out.println(a);
-}
+System.out.println(d);
+	}// mis jama see on?
 }	
