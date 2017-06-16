@@ -17,7 +17,7 @@ System.out.println(a);
 
 System.out.println(d);
 String S1= "kehvapoolne";
-String S2= "kehvapoolne";
+String S2= "hasti";
 System.out.println(S1.equals(S2));
 
 }	
