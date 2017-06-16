@@ -14,6 +14,11 @@ int c=a++ - ++a;
 int d=a++ + a++;
 System.out.println(c);
 System.out.println(a);
+
 System.out.println(d);
-	}// mis jama see on?
+String S1= "kehvapoolne";
+String S2= "kehvapoolne";
+System.out.println(S1.equals(S2));
+
 }	
+}
